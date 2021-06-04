@@ -52,7 +52,7 @@ You will also need:
 
 ## Preparation
 
-### Seperate IO Interface from DVL-A50
+### Separate IO Interface from DVL-A50
 
 The first thing you will have to do before going about any of the installation options is to cut the DVL-A50 cable, separating the IO Interface board. We recommend you do so near the end where the IO Interface board is to begin with.
 
@@ -86,7 +86,7 @@ Check that the BlueROV2 mounting bracket will attach properly to the BlueROV2 fr
 
 ![check-a50-bracket-fit](../img/check-a50-bracket-fit.jpeg)
 
-### Final cable lenght
+### Final cable length
 
 With the DVL-A50 now attached to the BlueROV2 frame, find the appropriate cable length needed by leading the cable back to the penetrator end cap of the BlueROV2 and add the length of the electronics enclosure (30 cm) to the cable. This is the *minimum* required cable length.
 
@@ -208,7 +208,7 @@ Install the O-ring onto the DVL-A50 cable penetrator and apply silicone grease t
 
 ![grease-o-ring-on-a50-penetrator](../img/grease-o-ring-on-a50-penetrator.jpeg) ![o-ring-on-a50-penetrator](../img/o-ring-on-a50-penetrator.jpeg)
 
-Push the wires throught the hole in the end cap where you previously removed a blank penetrator from.
+Push the wires through the hole in the end cap where you previously removed a blank penetrator from.
 
 ![a50-wires-through-bluerov2-end-cap](../img/a50-wires-through-bluerov2-end-cap.jpeg)
 
@@ -306,7 +306,7 @@ With power now sorted, we will connect up the ethernet cables:
 * Connect a 6" ethernet cable from the IO Interface Board to the ethernet switch.
 
 !!! Tip
-	Some thick double-sided sticky tape and zip ties can be used to secure the IO Interface, the ethernet switch, the DC/DC converter and wires to the electroncs frame inside the BlueROV2.
+	Some thick double-sided sticky tape and zip ties can be used to secure the IO Interface, the ethernet switch, the DC/DC converter and wires to the electronics frame inside the BlueROV2.
 
 
 ### Reassemble BlueROV2 electronics enclosure
